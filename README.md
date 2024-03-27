@@ -1,4 +1,4 @@
-##MIST4610Project1
+## MIST4610Project1
 
 ## Team Name:
 **61608 Group 4**
@@ -92,10 +92,3 @@ Lastly, there is a community engagement entity that shows the date of community 
 **Stored Procedures:** Each of the 10 queries are stored with formatting TP_Qx, where x is the query number.
 
 
-
-
-
-
-
-
-# MIST4610Project1
